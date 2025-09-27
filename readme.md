@@ -25,7 +25,7 @@ If you don't have a world:
 8. Paste in the `.zip` file
 9. Close the file explorer window
 10. Move from 'Available' to 'Selected' then click 'Done'.
-11. Done!
+11. Done! Run `/trigger kill_self` in chat to activate.
 
 If you already have a world:  
 1. Download the release matching your version
@@ -35,7 +35,7 @@ If you already have a world:
 5. Navigate to your world
 6. Paste the mod in the datapacks folder
 7. If you are in your world run /reload
-8. Done!
+8. Done! Run `/trigger kill_self` in chat to activate.
 
 ## ⚠️ Requirements
 - Minecraft Java version 1.21.8 (mod loaders supported, other versions planned).
@@ -54,6 +54,7 @@ This datapack is licensed under **Creative Commons Attribution-NonCommercial-Sha
 
 
 Full legal text: see [license.txt](./license.txt).
+
 
 
 
