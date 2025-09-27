@@ -1,0 +1,1 @@
+scoreboard objectives add kill_self trigger "Kill Self"
